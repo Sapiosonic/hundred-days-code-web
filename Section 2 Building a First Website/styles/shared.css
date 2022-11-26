@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(233, 215, 207);
+  text-align: center;
+  color: rgb(83, 75, 75);
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+a {
+  font-family: 'Fira Sans', sans-serif;
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.my-goals {
+  color: rgb(170, 96, 83);
+  font-weight: 400;
+  font-size: 2em;
+}
